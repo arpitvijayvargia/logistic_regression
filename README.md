@@ -11,6 +11,7 @@ Linear regression is unbounded, and this brings logistic regression into picture
 
 
 MNIST data:
+
 The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
 
 Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. 
